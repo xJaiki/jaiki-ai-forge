@@ -268,7 +268,7 @@ const Home = () => {
       <div className="max-w-4xl mx-auto">
         {/* Brutalist Typography Header */}
         <header className="mb-16">
-          <h1 className="text-5xl font-bold tracking-tight mb-3 font-mono text-black">AI STYLE INDEX <span className="text-xs font-mono text-gray-500">v1.0425</span></h1>
+          <h1 className="text-5xl font-bold tracking-tight mb-3 font-mono text-black">JAIKI AI FORGE <span className="text-xs font-mono text-gray-500">v1.0425</span></h1>
           <p className="text-lg font-mono text-black border-t border-b border-black py-2">
             A CATALOG OF AI-GENERATED REACT TAILWIND DESIGNS
           </p>

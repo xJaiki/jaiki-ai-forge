@@ -12,7 +12,7 @@ const menuItems = [
   { path: '/TactileMaterialLayers', label: 'TACTILE MATERIAL', isExternal: false },
   { path: '/chronologicallayering', label: 'CHRONO LAYERING', isExternal: false },
   {
-    path: 'https://github.com/xjaiki/react-template-minimal',
+    path: 'https://github.com/xjaiki/jaiki-ai-forge',
     label: 'REPOSITORY',
     isExternal: true
   }
